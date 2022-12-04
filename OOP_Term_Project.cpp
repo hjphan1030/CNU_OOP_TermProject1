@@ -1,13 +1,11 @@
+// CNU Object Oriented Programming - Term Project
+// 202102727_한현준
+
 #include <iostream>
 #include <sstream>
 #include <fstream>
 #include <vector>
 using namespace std;
-
-// class MyException : public exception{
-//     public:
-//     MyException(const char* err) : exception(err){}
-// };
 
 class TextEditor{
 private:
